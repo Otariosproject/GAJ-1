@@ -52,14 +52,12 @@ Regras de Negócio.
 <body>
 	<div id="menu">
 		<ul>
-			<li><a href="">Home</a></li>
-			<li><a href="">Sobre</a></li>
-			<li><a href="">Artigos</a></li>
-			<li><a href="">Estudos</a></li>
-			<li><a href="">Diretório</a></li>
-			<li><a href="">CURSO</a></li>
-			<li><a href="">Links</a></li>
-			<li><a href="">Contato</a></li>
+			<li><a href="">Inicio</a></li>
+			<li><a href="">Documentação</a></li>
+			<li><a href="">Codigos</a></li>
+			<li><a href="">Participantes</a></li>
+			<li><a href="">Relatório</a></li>
+			
 		</ul>
 	</div>
 </body>
